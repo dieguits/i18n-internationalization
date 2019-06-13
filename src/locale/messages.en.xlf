@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="subtitle" datatype="html">
+        <source>Here are some links to help you start: </source>
+        <target>Here are some links to help you start: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">showing the links below</note>
+        <note priority="1" from="meaning">Anounsment</note>
+      </trans-unit>
+      <trans-unit id="subtitleId" datatype="html">
+        <source>Tour of Heroes</source>
+        <target>Tour of Heroes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">subtitle of tour of heoes</note>
+        <note priority="1" from="meaning">Tour</note>
+      </trans-unit>
+      <trans-unit id="documentationId" datatype="html">
+        <source>CLI Documentation</source>
+        <target>CLI Documentation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">links for documentarion</note>
+        <note priority="1" from="meaning">Documentation</note>
+      </trans-unit>
+      <trans-unit id="blogId" datatype="html">
+        <source>Angular blog</source>
+        <target>Angular blog</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">Link for angular blog</note>
+        <note priority="1" from="meaning">Blog</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
